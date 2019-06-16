@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Land Area Conversion</string>
+    <string name="imp_info1">:- 1Biswansi =  1/20 Biswa so convert according to your state\n\n1) 5E-3 = 5 / 1000 = 0.005  e.g 4.64E-3 = 4.64 / 1000 = 0.00464\n\n2)5E+3= 5 *1000=5000  e.g 4.56E+3 = 4.56 * 1000 = 4560\n\n3)In Andhra Pradesh:-\nAnkanam,Guntha,Kuncham unit is used</string>
+    <string name="imp_info2">4)In Assam:-\nBigha,Kattha,Lecha unit is used\n\n5)In Gujarat:-\nBigha\n\n6)In Haryana:-\nBigha Pakka,Bigha Kachha,Biswa Pakka,Biswa Kachha,Ghumaon, Killa,Kanal,Sarsahi unit is used\n\n7)In Himachal Pradesh:-\nBigha HP(Himachal Pradesh)-1,Bigha HP-2,Biswa HP-1,Biswa HP-2,Ghumaon,Kanal,Sarsahi unit is used\n\n8)In Jammu and Kashmir:-\nKanal unit is used\n\n9)In Jharkhand:-\nDhur unit is used\n\n10)In Karnataka:-\nAnkanam,Cent,Guntha unit is used\n\n11)In Kerala:-\nCent unit is used\n\n12)In Madhya Pradesh:-\nBigha,Kattha unit is used\n\n13)Maharashtra:-\nGuntha unit is used\n\n14)In Punjab:-\nBigha Pakka,Bigha Kachha,Biswa Pakka,Biswa Kachha,Killa,Ghumaon,Kanal,Sarsahi(Square Karam) unit is used\n\n15)In Rajasthan-\nBigha Rajasthan-1,Bigha Rajasthan-2,Biswa (Upper Parts),Biswa (Lower Parts)unit is used\n\n16)In Tamil Nadu-\nCent,Ground unit is used\n\n17)In Tripura-\nDhur unit is used\n\n18)In Uttar Pradesh-\nBigha Pakka,Bigha Kachha,Biswa Pakka,Biswa Kachha unit is used\n\n19)In Uttarakhand-\nBigha Uttarakhand-1,Bigha Uttarakhand-2,Biswa Uttarakhand-1,Uttarakhand-2 unit is used\n\n20)In West Bengal-\nBigha,Chatak,Decimal unit is used</string>
+    <string name="facebook_app_id">784680731910162</string>
+    <string name="facebook_banner_test">408697573228335_408698529894906</string>
+    <string name="facebook_app_id_test">408697573228335</string>
+    <string name="native_banner_test">408697573228335_408715536559872</string>
+    <string name="native_test">408697573228335_408727973225295</string>
+    <string name="int_test">408697573228335_408730716558354</string>
+    <string name="native_banner_real">784680731910162_785300411848194</string>
+    <string name="native_real">784680731910162_785298668515035</string>
+    <string name="int_real">784680731910162_785298811848354</string>
+    <string name="banner_real">784680731910162_784998221878413</string>
+    <string name="banner_about">784680731910162_785494615162107</string>
+    <string name="interstitial_about">784680731910162_785495658495336</string>
+    <string name="banner_privacy">784680731910162_785496361828599</string>
+    <string name="int_privacy">784680731910162_785496965161872</string>
+    <string name="aboutLandApp">This app is used to convert one area unit into another unit.Mainly used for land area unit conversion.\n\nIt contains two section one secion is Common Standard unit includes Acre,Yard etc you can convert to one another and the second section is State Wise unit where you will get state wise unit e.g Bigha, Guntha etc to which you can convert to standard unit </string>
+    <string name="titleSplash1">All India state wise unit conversion</string>
+    <string name="titleSplash2">Standard unit conversion</string>
+    <string name="titlebelow">Acre | Bigha | Guntha | Biswa | Dhur | Ground | Feet | Yard | Cent | Kanal | Killa | Kattha | Kuncham | Sarashi</string>
+
+</resources>
